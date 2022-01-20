@@ -1,0 +1,23 @@
+*{
+    background-color: skyblue;
+}
+button{
+    margin-left: 50%;
+    width: 150px;
+    height: 70px;
+    background-color: goldenrod;
+    color: white;
+    text-align: center;
+}
+.flat{
+    background-image:url(images\ \(8\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.craft{
+    text-align: center;
+}
+footer{
+    background-color: hotpink;
+    text-align: center;
+}
